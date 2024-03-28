@@ -1,5 +1,6 @@
 # Fullstack note making app jotion : Next.js 13, React, Convex, Tailwind
 
+full Output video on google drive : https://drive.google.com/drive/folders/1pWVEcNmqmczG1mzDJErqo5wfiek3-c_a?usp=drive_link
 
 Key Features:
 
